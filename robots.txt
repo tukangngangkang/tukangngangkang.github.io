@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://videogolaugh.github.io/sitemap.xml
+Sitemap: https://tukangngangkang.github.io/sitemap.xml
